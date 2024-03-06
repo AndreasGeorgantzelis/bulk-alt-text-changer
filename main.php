@@ -1,3 +1,7 @@
+/*
+* Plugin Name: wp-bulk-alt-text-changer
+*/
+
 function update_alt_text_on_product_save($post_id) {
     // Check if the post type is 'product' (you may need to adjust this based on your actual post type)
     if (get_post_type($post_id) === 'product') {
