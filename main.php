@@ -1,5 +1,7 @@
 /*
 * Plugin Name: wp-bulk-alt-text-changer
+* Author: andreasgeorgantzelis@gmail.com
+* Description: Wordpress plugin that changes the alt-text of the product images, according to the product title.
 */
 
 function update_alt_text_on_product_save($post_id) {
