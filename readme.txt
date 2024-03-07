@@ -5,6 +5,7 @@ Requires at least: 3.0
 Tested up to: 5.4
 Requires PHP: 7.0
 License: GPLv2 or later
+Version: 1.0.0
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A minimal plugin that changes the alt-text of the product images, according to the product title.
@@ -21,5 +22,5 @@ A minimal plugin that changes the alt-text of the product images, according to t
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 Plugin Launch
